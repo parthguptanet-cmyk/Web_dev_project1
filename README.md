@@ -1,0 +1,2 @@
+Website Clone Project
+This project is a front-end remake of an existing website, built using HTML, CSS, and JavaScript. The goal of this project was to practice and improve web development skills by recreating the design, layout, and interactive features of a real-world website. It focuses on responsive design, clean UI implementation, and JavaScript-based functionality. This project is created for educational and learning purposes only and is not affiliated with the original website.
